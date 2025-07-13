@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Crio apps desde 2022...<br>📚 Estou envolvido em aprimorar skills em front-end...<br>🎯 Goals: Dê uma vista de olhos nos meus repositórios ...</p>
+<p align="left">✨ Crio apps desde 2022...<br>📚 Estou envolvido em aprimorar skills em front-end...<br>🎯 Goals: Dê uma vista de olhos nos meu repositório ...</p>
 
 ###
 
