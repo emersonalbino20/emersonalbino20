@@ -71,6 +71,6 @@
 
 ###
 
-![Snake](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![snake animation](https://github.com/emersonalbino20/emersonalbino20/blob/output/github-contribution-grid-snake2.svg)
 
 ###
