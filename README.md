@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emersonalbino20/emersonalbino20/output/snake.svg" alt="Snake animation" />
+![Snake](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ###
