@@ -71,6 +71,7 @@
 
 ###
 
-![snake animation](https://github.com/emersonalbino20/emersonalbino20/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/emersonalbino20/emersonalbino20/output/snake.svg" alt="Snake animation" />
+
 
 ###
