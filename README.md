@@ -12,12 +12,6 @@
 
 <p align="left">✨ Crio apps desde 2022...<br>📚 Estou envolvido em aprimorar skills em front-end...<br>🎯 Goals: Dê uma vista de olhos nos meu repositório ...</p>
 
-<h2> Cursos Recentes </h2>
-
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/07df06ae-0b31-477b-a1d2-6d313374cffb.jpeg?v=1788727867)](https://www.boot.dev/certificates/07df06ae-0b31-477b-a1d2-6d313374cffb)
-
-[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/af90a6ba-d135-4d79-ab1b-7bdeb6cedbcb.jpeg?v=1785428890)](https://www.boot.dev/certificates/af90a6ba-d135-4d79-ab1b-7bdeb6cedbcb)
-
 ###
 
 <h2 align="left">Tecnologias</h2>
